@@ -3,7 +3,13 @@
 
 
 - 🔭 I’m currently working on ... Intern at DCT Academy
-- 🌱 I’m currently learning ... React, Redux, Node
-- 💬 Ask me about ... Javascript, React, Node
+- 💬 Ask me about ...
+  .Master in  Computer Application (2021)
+  .Recently Skilled up My Self With ReactJs, Redux, Ajax.
+  .My Goal is to be a FullStack Developer
+ Technical Skills
+  .JavaScript | ES6
+  .HTML | CSS | SCSS | Bootstrap
+  .ReactJs | Ajax | Redux
 - 📫 How to reach me: ...7026401173 
 
