@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ... Intern at DCT Academy
+
 - 💬 Ask me about ...
 - .Master of  Computer Application (MCA) (2021)
 - .Recently Skilled up My Self With ReactJs, Redux, Ajax.
